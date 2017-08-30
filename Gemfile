@@ -22,6 +22,8 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'launchy'
   gem 'capybara'
+  gem 'vcr'
+  gem 'webmock'
 end
 
 group :development do
